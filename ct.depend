@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1416315394 source:e:\hehe\ct\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<string>
+	<cctype>
+	<cassert>
+	<set>
+	"word.h"
+
+1416315268 e:\hehe\ct\word.h
+
+1416572739 source:c:\documents and settings\administrator\桌面\ct\ct\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<string>
+	<cctype>
+	<cassert>
+	<set>
+	"word.h"
+
+1416315268 c:\documents and settings\administrator\桌面\ct\ct\word.h
+
+1416572740 source:g:\ct\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<string>
+	<cctype>
+	<cassert>
+	<set>
+	"word.h"
+
+1416315268 g:\ct\word.h
+
+1420720620 source:c:\users\zkf\desktop\编译原理\ct\main.cpp
+	"word.h"
+
+1420125186 c:\users\zkf\desktop\编译原理\ct\word.h
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<string>
+	<cctype>
+	<cassert>
+	<set>
+	<map>
+
+1417079108 source:f:\ct\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<string>
+	<cctype>
+	<cassert>
+	<set>
+	"word.h"
+
+1416315268 f:\ct\word.h
+
+1418386754 source:c:\documents and settings\1\桌面\ct\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<string>
+	<cctype>
+	<cassert>
+	<set>
+	<map>
+	"word.h"
+
+1416315268 c:\documents and settings\1\桌面\ct\word.h
+
+1420112176 c:\users\zkf\desktop\编译原理\ct\table.h
+
+1420125084 source:c:\users\zkf\desktop\编译原理\ct\optimization.cpp
+
